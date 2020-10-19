@@ -79,19 +79,19 @@ Pour voir le reste des fonctionnalités, regardez le fichier [`exemples.py`](htt
 
 ### Ordinateur
 
-- Ouvrez une invite de commande.  
+- Ouvrez un invite de commande.  
   <details>
     <summary>Comment faire ?</summary>
 
     Appuyez sur la touche `Windows` + la touche `R`, et écrivez `cmd` dans la fenêtre qui s'est ouverte.
   </details>
   
-- Assurez-vous d'avoir `Python >=3.6` d'installé. 
+- Assurez-vous d'avoir `Python >=3.6` d'installée. 
   <details>
     <summary>Comment savoir ?</summary>
 
     Ecrivez `python --version` dans l'invite de commande. Si Python est installé cela affichera la version qui doit être supérieur à `3.6`.
-    Si ce n'est pas le cas, [installer Python](https://www.python.org/downloads/) dans une version égal ou supérieur à 3.6 pour éviter les soucis de compatibilité.
+    Si ce n'est pas le cas, [installer Python](https://www.python.org/downloads/) dans une version égale ou supérieure à 3.6 afin d'éviter les soucis de compatibilité.
   </details>
   
 - Vérifiez que `pip` est installé. 
@@ -107,7 +107,7 @@ Pour voir le reste des fonctionnalités, regardez le fichier [`exemples.py`](htt
     pip install atomion
     ```
   
-- L'ors de nouvelle mise à jour il suffira de rajouter `--upgrade` pour mettre le module à jour : 
+- Lors de nouvelle mise à jour il suffira de rajouter `--upgrade` pour mettre le module à jour : 
     ```sh
     pip install atomion --upgrade
     ```
@@ -121,7 +121,7 @@ Pour voir le reste des fonctionnalités, regardez le fichier [`exemples.py`](htt
 
 ### Calculatrice
 
-_**Attention**, pour les calculatrices qui ne peuvent pas avoir de dossiers, il n'est pas possible d'utiliser le module, mais une version en un seul fichier est en cours pour que vous puissiez l'utiliser._
+_**Attention**, pour les calculatrices qui ne peuvent pas avoir de dossiers, il n'est pas possible d'utiliser le module, mais une version en un seul fichier est en cours de développement afin de permettre son utilisationt._
 
 - Repérez le bouton vert avec écrit "Code" sur cette page et appuyez dessus.
 - Cliquez sur `Download ZIP`.
@@ -132,7 +132,7 @@ _**Attention**, pour les calculatrices qui ne peuvent pas avoir de dossiers, il 
  
 # Documentation
 
-Elle n'est pas fini, mais disponible :
+Elle n'est pas terminée, mais disponible :
 - 🇫🇷 [En français](https://4surix.github.io/atomion-doc/fr/annotated.html)
 - 🇪🇸 [En español](https://4surix.github.io/atomion-doc/es/annotated.html)  
   
